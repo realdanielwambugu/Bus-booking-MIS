@@ -1,0 +1,28 @@
+- Providers
+- routing
+- ORM
+- Http component
+- Middle-wares
+- pipeline
+- Settings
+- Support
+- Container
+- Exceptions Handler
+- Events, Listeners
+- Session
+- Validation
+- Hashing
+- Authentication
+- views
+- Authorization - Gate, Policies,
+- Files - images, other files
+- Mail - PHP mailer
+- ajax navigation
+
+bugs
+ Model line 165 - change $this->table to $this->getTable()
+Migration:
+- FullName to fullName
+- status to default pending
+SignupController:
+- remove setting  status to default pending
